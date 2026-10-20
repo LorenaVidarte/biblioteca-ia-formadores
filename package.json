@@ -1,0 +1,7 @@
+{
+  "name": "biblioteca-ia-formadores",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {"build": "node scripts/build-site.cjs"},
+  "devDependencies": {"marked": "17.0.5"}
+}
