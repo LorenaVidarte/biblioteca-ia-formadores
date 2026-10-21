@@ -1,123 +1,60 @@
 # Empieza aquí
-## Prepara tu documentación y programa el curso
 
-### Cómo recorrer esta biblioteca
+## ¿Para quién es esta guía?
 
-**Empieza por esta guía y sigue los pasos en orden.** La biblioteca está organizada en tres carpetas. No necesitas leer ni descargar todos los archivos de una vez.
+Para formadores y formadoras de personas adultas (formación ocupacional, continua, en empresas, idiomas y talleres, entre otros).
 
-#### 01_Prepara-tu-entorno
+Especialmente útil si impartes varios cursos, colaboras con distintas entidades o repites una formación con diferentes grupos. La organización propuesta es adaptable.
 
-Abre [Prepara tu entorno](01_Prepara-tu-entorno/). Encontrarás:
+## ¿Cómo utilizarla?
 
-- [Instrucciones-formaciones.md](01_Prepara-tu-entorno/Instrucciones-formaciones.md): establece cómo debe trabajar el asistente y cuándo debe esperar tu aprobación.
-- [Guia-nombrar-archivos-carpetas.md](01_Prepara-tu-entorno/Guia-nombrar-archivos-carpetas.md): explica cómo nombrar y organizar tus archivos.
-- [Guia-perfil-del-alumnado.md](01_Prepara-tu-entorno/Guia-perfil-del-alumnado.md): orienta la descripción del grupo y la protección de su privacidad. El texto del perfil lo redactas tú.
-- [Crear-estructura-carpetas.md](01_Prepara-tu-entorno/Crear-estructura-carpetas.md): contiene una petición para que el asistente cree las carpetas, si tu herramienta dispone del acceso y los permisos necesarios.
+Sigue los pasos en orden. Las instrucciones explican qué hacer y las fichas identifican los recursos para copiar, completar o descargar.
 
-Los pasos de esta guía te indican cuándo utilizar cada recurso. La carpeta de la biblioteca reúne materiales de consulta; la estructura **FORMACIONES** que crearás después será tu espacio de trabajo docente.
+Puedes empezar en una conversación con tu asistente de IA. No necesitas crear un proyecto ni instalar una skill.
 
-#### 02_Instrucciones-para-tareas
+Facilita los documentos necesarios e indica que aplique Instrucciones-formaciones.md. Comprueba que pueda leerlos.
 
-Cuando tengas preparado tu entorno, abre [Instrucciones para tareas](02_Instrucciones-para-tareas/) y elige la que necesites:
+## Cómo reconocer los materiales
 
-- [Preparar una actividad](02_Instrucciones-para-tareas/Preparar-una-actividad.md).
-- [Adaptar un material](02_Instrucciones-para-tareas/Adaptar-un-material.md).
-- [Revisar una actividad y su evaluación](02_Instrucciones-para-tareas/Revisar-actividad-y-evaluacion.md).
-- [Elaborar una rúbrica](02_Instrucciones-para-tareas/Elaborar-una-rubrica.md).
-- [Organizar la semana](02_Instrucciones-para-tareas/Organizar-la-semana.md).
+Las instrucciones explican qué hacer. Los prompts son textos para copiar y enviar al asistente. Los archivos descargables son guías, configuración o skills.
 
-Lee la propuesta, completa los datos de tu formación y copia la petición en tu asistente. Revisa siempre el resultado con criterio docente.
+## Paso 1. Reúne y organiza la documentación
 
-#### 03_Skills
+Reúne la documentación disponible de tus formaciones en una carpeta: programas, requisitos de los centros, plantillas, calendarios y materiales.
 
-Después de probar esta forma de trabajo, puedes explorar [Skills](03_Skills/). Una skill reúne instrucciones para realizar una tarea siguiendo un procedimiento:
+Puedes organizarla con ayuda de la IA de dos formas:
 
-- [Diseño guiado de evaluaciones](03_Skills/Diseno-guiado-evaluaciones/): ayuda a diseñar pruebas, rúbricas y guías de corrección.
-- [Revisión guiada de escritos](03_Skills/Revision-guiada-escritos/): ayuda a revisar producciones digitales o manuscritas y espera la validación docente antes de redactar el feedback (comentario para orientar la mejora).
+- **Si el asistente puede trabajar con tus carpetas:** dale acceso y pídele que revise los archivos y proponga cómo organizarlos. Comprueba la propuesta antes de autorizar que los mueva.
+- **Si no puede hacerlo directamente:** facilítale la información necesaria y pídele que te indique qué carpetas crear y dónde guardar cada archivo.
 
-En cada carpeta encontrarás dos formatos del mismo procedimiento:
+**La estructura debe permitir relacionar la información sin mezclarla:**
 
-- **Markdown (.md):** un archivo de texto para leer las instrucciones o facilitarlas al asistente, según las posibilidades de tu herramienta.
-- **ZIP (.zip):** un paquete comprimido que contiene la carpeta de la skill y su archivo `SKILL.md`. Sirve para descargarla y utilizarla en herramientas compatibles. Descargarlo no instala ni activa la skill.
+| Información | Cómo se relaciona |
+| --- | --- |
+| Configuración general | Las instrucciones de trabajo se aplican a tus distintas formaciones. |
+| Centro | Sus requisitos y plantillas se utilizan en los cursos que impartes para esa entidad. |
+| Curso | Su programa y sus materiales reutilizables sirven de referencia para las distintas ocasiones en que lo impartes. |
+| Edición | Cada impartición reúne el grupo, las fechas, los recursos y la programación específicos, y se relaciona con el curso y el centro correspondientes. |
 
-No necesitas instalar ninguna skill para comenzar esta guía.
+Por ejemplo, puedes impartir **el mismo curso en dos centros**. Ambos comparten el programa y algunos materiales, pero cada centro puede exigir una plantilla diferente y cada grupo necesitar actividades adaptadas.
 
-#### Cómo consultar y descargar los materiales
+Conviene guardar cada documento común en su lugar y utilizar enlaces o accesos directos cuando sea necesario. Así podrás reutilizar materiales y localizar los requisitos correctos, reduciendo duplicados y evitando trasladar por error fechas o datos de otro grupo.
 
-La biblioteca se consulta en GitHub, mediante los enlaces de esta guía. Puedes abrir los materiales o descargar la biblioteca completa.
+### Prompt: Organiza las carpetas de tus formaciones
 
-También puedes descargar el [ZIP general de la biblioteca](Biblioteca-IA-para-Formadores.zip) y descomprimirlo (extraer sus archivos) en tu ordenador. Conserva las carpetas para localizar los materiales en el mismo orden que en Drive.
+Ayúdame a organizar la documentación de mis formaciones. Te facilito una carpeta con los archivos o, si no puedes acceder, una lista de los documentos.
 
-GitHub es un servicio que permite guardar documentos y mantener un historial de cambios. Más adelante está previsto publicar también una web de consulta; esa web está pendiente. **No necesitas saber utilizar GitHub para seguir esta guía.**
+Propón una estructura que relacione lo común a mi trabajo, los requisitos de cada centro, los programas y materiales de cada curso y la información de cada edición (grupo, fechas, recursos y programación).
 
-### A quién va dirigida y por qué proponemos esta organización
+Utiliza como referencia esta estructura. Los nombres entre corchetes indican datos que debes preguntarme; no crees carpetas con nombres de ejemplo:
 
-Esta guía está pensada para docentes de formación de personas adultas, especialmente en contextos no formales y de formación para el empleo (formación ocupacional, formación continua, formación en empresas, cursos de idiomas y talleres, entre otros).
-
-Está dirigida especialmente a quienes imparten varios cursos, colaboran con distintas entidades o repiten una formación con grupos diferentes.
-
-En ese trabajo, la documentación se relaciona de distintas maneras:
-
-- Un mismo curso puede impartirse en varios centros.
-- Cada centro puede exigir sus propias plantillas y procedimientos.
-- Un material puede servir para diferentes cursos, con las adaptaciones necesarias.
-- Cada grupo tiene su perfil, calendario, recursos y programación.
-
-Por eso, la estructura distingue **lo común a tu trabajo, lo propio de cada centro, lo reutilizable de cada curso y lo específico de cada edición**.
-
-Así puedes relacionar los documentos sin mezclar versiones, trasladar por error datos de otro grupo o duplicar materiales innecesariamente. También ayudas al asistente de IA a localizar las fuentes que corresponden a cada encargo.
-
-La estructura es una propuesta adaptable. Su finalidad es facilitar tu trabajo y mantener claras esas relaciones.
-
-### Cómo utilizar esta guía
-
-Esta guía propone una forma de organizar tu trabajo docente con un asistente de inteligencia artificial basado en un modelo de lenguaje (LLM, por sus siglas en inglés).
-
-Puedes seguirla en una conversación o utilizarla como base para configurar un proyecto, un asistente personalizado o una skill, según las posibilidades de tu herramienta. Una **skill** reúne instrucciones para realizar una tarea siguiendo un procedimiento.
-
-El punto de partida es el mismo:
-
-- **La estructura documental FORMACIONES** organiza las fuentes que el asistente debe consultar (programas, calendarios, plantillas y materiales).
-- **El archivo `Instrucciones-formaciones.md`** establece cómo debe trabajar (qué comprobar, qué preguntar y cuándo esperar tu aprobación).
-
-La herramienta debe poder acceder a los documentos y recibir la indicación de aplicar las instrucciones. La forma de hacerlo depende de cada aplicación.
-
-Para empezar no necesitas crear un proyecto ni instalar una skill. Puedes seguir esta guía en una conversación, facilitando las instrucciones y los documentos necesarios.
-
-El primer trabajo será elaborar la programación del curso. Antes, reúne la documentación, organízala y comprueba que la información de partida es correcta.
-
-### 1. Reúne la documentación
-
-Busca lo que ya tienes:
-
-| Documentación | Algunos ejemplos |
-|---|---|
-| Del centro | Instrucciones, requisitos y plantillas oficiales. |
-| Del curso | Programa oficial, objetivos, contenidos, duración y requisitos de evaluación. |
-| De la edición | Fechas, horario, modalidad y recursos disponibles para esa impartición. |
-| Materiales existentes | Programaciones, apuntes, actividades y evaluaciones que puedan servir de referencia. |
-
-Una **edición** es cada ocasión en la que impartes un curso a un grupo concreto y en unas fechas determinadas.
-
-Comprueba qué documentos están vigentes. Anota lo que falte y dónde podrías conseguirlo.
-
-### 2. Organiza los documentos en carpetas
-
-Puedes utilizar esta estructura en tu ordenador o en un servicio como Google Drive. Sustituye los nombres entre corchetes por los de tu centro, curso y edición.
-
-```text
 FORMACIONES
-│
 ├── 00_Configuracion-general
-│   ├── Instrucciones-formaciones.md
-│   └── Guia-nombrar-archivos-carpetas.md
-│
 ├── 01_Centros
 │   └── [CENTRO]
 │       ├── 00_Instrucciones-del-centro
 │       ├── 01_Plantillas-oficiales
 │       └── 02_Ejemplos-de-referencia
-│
 ├── 02_Cursos
 │   └── [CODIGO_Nombre-del-curso]
 │       ├── 01_Programa-oficial
@@ -126,7 +63,6 @@ FORMACIONES
 │           ├── 02_Actividades
 │           ├── 03_Modelos-de-evaluacion
 │           └── 04_Recursos-complementarios
-│
 └── 03_Ediciones
     └── [CODIGO_Nombre-breve_CENTRO_2026-E01]
         ├── 00_Contexto
@@ -135,192 +71,275 @@ FORMACIONES
         ├── 03_Materiales-del-grupo
         ├── 04_Evaluacion
         └── 05_Borradores
-```
 
-Los archivos `.md` son documentos de texto con marcas sencillas para títulos y listas. Puedes leerlos en un editor de texto.
+Comprueba qué información puedes consultar. Pregunta los nombres y códigos que necesites y señala lo que no puedas identificar. No inventes datos ni dupliques carpetas existentes.
 
-#### Configuración general
+Presenta primero la organización propuesta en el chat. No muevas, renombres ni elimines archivos sin mi autorización.
 
-En la carpeta `00_Configuracion-general`, guarda una copia de estos archivos `.md`, que encontrarás en la carpeta [Prepara tu entorno](01_Prepara-tu-entorno/) de esta biblioteca:
+Si tienes acceso y permisos, después de que confirme la propuesta podrás crear las carpetas y realizar únicamente los movimientos que autorice. Si no puedes hacerlo directamente, indícame qué carpetas debo crear y dónde colocar cada documento.
 
-- **[Instrucciones-formaciones.md](01_Prepara-tu-entorno/Instrucciones-formaciones.md)**: indica al asistente cómo trabajar, consultar las fuentes y esperar tu autorización antes de generar documentos.
-- **[Guia-nombrar-archivos-carpetas.md](01_Prepara-tu-entorno/Guia-nombrar-archivos-carpetas.md)**: explica cómo nombrar y organizar tus archivos.
+Archivo de apoyo: [01_Prepara-tu-entorno/Crear-estructura-carpetas.md](01_Prepara-tu-entorno/Crear-estructura-carpetas.md).
 
-Descarga los dos archivos y colócalos dentro de esa carpeta. Si trabajas en Google Drive, súbelos a la carpeta equivalente.
+**Antes de continuar:** Comprueba que puedes identificar a qué centro, curso o edición pertenece cada documento. Si no está claro, déjalo pendiente de revisar.
 
-#### Centros
+## Paso 2. Establece cómo nombrar archivos y carpetas
 
-Crea una carpeta para cada entidad con la que trabajes.
+Utiliza nombres coherentes para que tú y el asistente podáis identificar a qué centro, curso y edición pertenece cada documento.
 
-| Carpeta | Qué guardar |
-|---|---|
-| `00_Instrucciones-del-centro` | Requisitos de la entidad sobre presentación, entrega de documentación y procedimientos que debas respetar. |
-| `01_Plantillas-oficiales` | Modelos vacíos facilitados por el centro para programaciones, actividades, evaluaciones u otros documentos. |
-| `02_Ejemplos-de-referencia` | Documentos completados que sirvan como ejemplo. Sus fechas, códigos y datos no deben copiarse a otra formación. |
+- Separa los bloques de información con `_` y las palabras de un mismo bloque con `-`.
+- Escribe las fechas como `AAAA-MM-DD` y utiliza versiones como `v01`, `v02`.
+- Añade el estado cuando sea útil: `borrador`, `revisado` o `aprobado`.
+- Conserva sin cambios los documentos oficiales recibidos del centro.
+- Evita nombres, documentos de identidad u otros datos personales del alumnado.
 
-#### Cursos
+Ejemplo (el código y el centro son ilustrativos):
 
-Crea una carpeta por curso, independiente del grupo o de las fechas en que lo impartas.
+`CUR001_Competencias-digitales_CENTRO_2026-E01_Programacion_v02_aprobado.docx`
 
-| Carpeta | Qué guardar |
-|---|---|
-| `01_Programa-oficial` | Ficha técnica, objetivos, contenidos, duración y requisitos oficiales de evaluación. |
-| `02_Materiales-reutilizables` | Materiales revisados que puedan adaptarse a distintas ediciones del curso. |
-| `01_Teoria` | Apuntes, explicaciones y presentaciones generales. |
-| `02_Actividades` | Ejercicios y propuestas prácticas reutilizables. |
-| `03_Modelos-de-evaluacion` | Ejemplos de pruebas, rúbricas y guías de corrección. |
-| `04_Recursos-complementarios` | Lecturas, enlaces, vídeos y otros apoyos. |
+No todos los archivos necesitan incluir todos estos datos. El nombre debe aportar la información necesaria para distinguirlo sin hacerse demasiado largo.
 
-#### Ediciones
+Guarda esta guía en `FORMACIONES/00_Configuracion-general`, porque sus criterios se aplican a todas tus formaciones.
 
-Crea una carpeta para cada impartición del curso.
+Material para leer y descargar: [Guía para nombrar archivos y carpetas](01_Prepara-tu-entorno/Guia-nombrar-archivos-carpetas.md).
 
-| Carpeta | Qué guardar |
-|---|---|
-| `00_Contexto` | Perfil del alumnado y, después de aprobar la programación, el resumen de la edición con enlaces y decisiones tomadas. |
-| `01_Documentacion-y-calendario` | Calendario vigente y documentos específicos de esa impartición. |
-| `02_Programacion-aprobada` | Programación definitiva, revisada y aprobada para ese grupo. |
-| `03_Materiales-del-grupo` | Apuntes, presentaciones y actividades revisados y adaptados al grupo. |
-| `04_Evaluacion` | Pruebas, rúbricas, solucionarios y criterios aprobados para esa edición. Las respuestas y calificaciones requieren un espacio con acceso restringido según las indicaciones del centro. |
-| `05_Borradores` | Archivos autorizados para trabajar como propuestas, todavía pendientes de aprobación definitiva. |
+**Antes de continuar:** Comprueba que los nombres permiten reconocer el documento y su contexto.
 
-**Conserva los originales.** Cuando un borrador se apruebe, traslada esa versión a la carpeta correspondiente (o pide al asistente que lo haga).
+## Paso 3. Define cómo quieres que trabaje tu asistente
 
-Evita duplicar documentos comunes. Puedes utilizar enlaces o accesos directos (permiten llegar al archivo original desde otra carpeta sin crear una segunda copia). Conserva una copia identificada cuando necesites dejar constancia de la versión utilizada en una edición.
+Establece unas reglas para que consulte las fuentes, pregunte cuando falte información, respete tus criterios y espere tu revisión antes de generar archivos.
 
-Para elegir los nombres, consulta la **[Guía para nombrar archivos y carpetas](01_Prepara-tu-entorno/Guia-nombrar-archivos-carpetas.md)** de esta biblioteca.
+Puedes crear tus propias instrucciones. Te recomendamos leer nuestra propuesta para decidir qué mantener, adaptar o añadir.
 
-### 3. Prepara el perfil del alumnado
+**Cómo utilizarla**
 
-Antes de programar, reúne la información relevante sobre el grupo y guárdala en `00_Contexto` de la edición.
+1. Lee las instrucciones y adáptalas a tu forma de trabajar.
+2. Facilita el archivo al asistente o incorpora su contenido en el apartado de instrucciones de tu herramienta.
+3. Pídele que confirme que puede leerlo y aplicarlo.
 
-Consulta la **[Guía para preparar el perfil del alumnado](01_Prepara-tu-entorno/Guia-perfil-del-alumnado.md)**, que explica qué incluir y cómo proteger su privacidad.
+**Dónde guardarla**
 
-Este perfil ayudará a adaptar las actividades, los tiempos y los apoyos al grupo, respetando los objetivos y requisitos del curso.
+`FORMACIONES/00_Configuracion-general/Instrucciones-formaciones.md`
 
-### 4. Conoce las reglas de trabajo del asistente
+Va en esta carpeta porque contiene reglas comunes para todas tus formaciones.
 
-Lee el archivo **[Instrucciones-formaciones.md](01_Prepara-tu-entorno/Instrucciones-formaciones.md)** antes de utilizarlo.
+Material para leer y descargar: [Instrucciones para el asistente](01_Prepara-tu-entorno/Instrucciones-formaciones.md).
 
-Su regla principal es:
+**Antes de continuar:** Comprueba que refleja tus criterios y que el asistente puede consultarla.
 
-> **Primero se revisa el contenido en el chat. Los archivos solo se preparan cuando escribas exactamente: APROBADO: genera el documento.**
+## Paso 4. Describe el perfil del alumnado
 
-Trabajar así permite corregir la información antes de dedicar tiempo al formato, evita acumular versiones innecesarias y reduce el trabajo repetido y el consumo de la herramienta.
+Conocer al grupo ayuda a ajustar las actividades, el lenguaje, los tiempos y los apoyos. Te recomendamos leer la guía para decidir qué información conviene recoger.
 
-Un «ok», «correcto» o «sí» no autoriza a generar archivos. Las correcciones posteriores también requieren una nueva autorización.
+Si todavía no conoces al alumnado, el perfil será provisional. Distingue los datos confirmados de las hipótesis y ajústalo después de la evaluación inicial.
 
-Estas instrucciones también establecen que el asistente debe consultar las fuentes, preguntar por los datos que falten y distinguir sus propuestas de la información confirmada.
+**Cómo utilizar la guía**
 
-### 5. Facilita las fuentes y las instrucciones al asistente
+1. Lee los criterios propuestos.
+2. Redacta tú el perfil con la información relevante que tengas.
+3. Describe al grupo de forma anónima, sin detalles que permitan identificar a participantes.
+4. Facilita el perfil al asistente cuando necesite adaptar la formación.
 
-Llamaremos **fuentes** a los documentos que debe consultar la IA para fundamentar sus propuestas.
+**Dónde guardar el perfil que redactes**
 
-Abre una conversación en tu asistente y facilita los archivos necesarios, incluidas las instrucciones de `00_Configuracion-general`.
+`FORMACIONES/03_Ediciones/[EDICION]/00_Contexto/Perfil-del-alumnado.md`
 
-Según la aplicación, podrás adjuntar archivos, conectar una carpeta o utilizar un proyecto o espacio de trabajo para reunir las conversaciones y los documentos del curso.
+Va en esta carpeta porque describe a un grupo concreto y puede cambiar en cada edición.
 
-Explica cómo están organizados y comprueba qué archivos puede consultar. Tenerlos guardados en tu ordenador o en Drive no significa que el asistente tenga acceso a ellos.
+Material para leer y descargar: [Guía del perfil del alumnado](01_Prepara-tu-entorno/Guia-perfil-del-alumnado.md).
 
-Si tu herramienta dispone de un apartado específico para instrucciones, puedes incorporar allí el contenido de `Instrucciones-formaciones.md`.
+**Antes de continuar:** Comprueba que el perfil sea útil, diferencie hechos e hipótesis y no permita identificar a nadie.
 
-### 6. Revisa la información antes de programar
+## Paso 5. Comprueba la información antes de programar
 
-Puedes pedirle:
+Con la documentación organizada, las instrucciones definidas y el perfil del grupo preparado, pide al asistente que revise las fuentes.
 
-> Primero lee y aplica las instrucciones de `00_Configuracion-general`. Confirma cuáles puedes consultar.
->
-> Después revisa la documentación y el perfil del alumnado que te he facilitado. Indica qué archivos puedes leer y qué información contienen para preparar la programación. Señala la fuente de cada dato, la información que falta y las posibles contradicciones.
->
-> No prepares todavía la programación. Espera a que revise y confirme la información.
+**El objetivo de este paso es comprobar la información de partida.** La programación se elaborará después, cuando hayas revisado los datos y resuelto las dudas necesarias.
 
-**Detente y verifica la respuesta.**
+Pídele que identifique qué archivos puede leer, los requisitos del curso y del centro, las condiciones de esta edición, los datos pendientes o contradictorios y qué aspectos del perfil son provisionales.
 
-Comprueba los datos en los documentos originales, aporta lo que falte y resuelve las contradicciones. Confirma también que el asistente ha interpretado correctamente el perfil del grupo.
+El asistente podría utilizar un calendario antiguo, confundir una plantilla de ejemplo con un requisito o tratar una previsión sobre el grupo como un hecho. Comprobar las fuentes ahora evita trasladar esos errores a la programación.
 
-Continúa cuando la información sea correcta y suficiente.
+### Prompt: Revisa la información de la formación
 
-### 7. Prepara el borrador de la programación
+Lee y aplica las instrucciones de trabajo que te he facilitado. Confirma cuáles puedes consultar.
 
-Cuando hayas validado la información de partida, puedes pedir:
+Revisa la documentación de esta formación y el perfil del alumnado. Indica qué archivos puedes leer y resume la información necesaria para preparar la programación, señalando la fuente de cada dato.
 
-> A partir de la información que hemos verificado, propón la programación completa del curso. Distribuye las sesiones e incluye objetivos, contenidos, duración y evaluación. Incorpora las actividades que ya tengamos definidas; cuando falten, señala qué queda pendiente de desarrollar. Explica cómo se adapta al perfil del alumnado. Distingue los requisitos de las fuentes de tus propuestas pedagógicas. Presenta el borrador en el chat y espera mi revisión.
+Distingue los requisitos de los documentos, las decisiones que yo haya confirmado y las hipótesis pendientes de comprobar. Identifica la información que falta y las contradicciones. No inventes datos.
 
-**Dedica una segunda revisión a la programación.**
+No prepares todavía la programación. Presenta la revisión en el chat y espera a que compruebe y confirme la información.
 
-Comprueba que:
+Archivo de apoyo: [02_Instrucciones-para-tareas/Revisar-informacion.md](02_Instrucciones-para-tareas/Revisar-informacion.md).
 
-- Cubre los objetivos y contenidos obligatorios.
-- Respeta las fechas y la duración total.
-- Distribuye el trabajo de forma realista.
-- Se adapta al nivel y las necesidades del grupo.
-- Prevé cómo comprobar el aprendizaje.
-- Identifica las actividades y decisiones pendientes.
+**Antes de continuar:** Contrasta la respuesta con los originales, corrige las interpretaciones y resuelve los datos necesarios para programar.
 
-Solicita los cambios necesarios antes de aprobarla.
+## Paso 6. Prepara la programación del curso
 
-### 8. Autoriza el archivo, compruébalo y muévelo a su carpeta
+Con la información verificada, pide una programación que relacione las sesiones con los objetivos, las competencias, los contenidos, las actividades y la evaluación.
 
-Cuando el contenido sea correcto, autoriza la preparación del archivo con la orden:
+**Si utilizas `Instrucciones-formaciones.md`:** después de revisar el borrador, escribe **APROBADO: genera el documento**. Si el asistente tiene acceso a la plantilla, creará el archivo en `05_Borradores`, manteniendo la estructura, los logotipos, el encabezado y el pie de página.
 
-**APROBADO: genera el documento**
+Revísalo antes de moverlo a `02_Programacion-aprobada`. Va en esa carpeta porque será la referencia para desarrollar las sesiones de esa edición.
 
-El asistente preparará el archivo y lo guardará en `05_Borradores`. Si el centro dispone de una plantilla, debe utilizarla respetando sus logotipos y estructura, salvo que des otras instrucciones específicas.
+Si utilizas otra configuración, establece expresamente cómo revisarás los borradores, autorizarás los archivos y utilizarás la plantilla.
 
-**Abre el archivo y comprueba tanto el contenido como la presentación.** Si necesita correcciones, revísalas primero en el chat y vuelve a autorizar la modificación con la misma orden.
+### Prompt: Crea la programación del curso
 
-Cuando compruebes que la programación está lista, muévela (o pídele al asistente que la mueva) a `02_Programacion-aprobada`.
+Prepara la programación del curso [nombre del curso], edición [centro, grupo o fechas], de acuerdo con el programa oficial, las especificaciones del centro, el calendario y el perfil del alumnado.
 
-Esa versión será la referencia para desarrollar las sesiones.
+Relaciona las sesiones con los objetivos, las competencias y los contenidos que deben alcanzarse. Incorpora las actividades ya definidas y, cuando sea necesario, propón otras adecuadas al grupo, al tiempo y a los recursos disponibles.
 
-### 9. Prepara y verifica el resumen de la edición
+Utiliza la plantilla oficial y el documento de referencia que te he facilitado para mantener la estructura requerida. No copies del modelo fechas, nombres ni datos de otra edición.
 
-Con la programación aprobada, pide al asistente:
+Presenta primero el borrador en el chat, distingue los requisitos de tus propuestas y señala la información que falte. No generes el archivo hasta que lo apruebe.
 
-> Genera un borrador del resumen de esta edición teniendo en cuenta la documentación verificada, el perfil del alumnado y la programación aprobada. Incluye:
->
-> - Identificación del curso, centro y edición.
-> - Fechas, horario, duración, modalidad y recursos disponibles.
-> - Enlace al perfil del alumnado, sin reproducir sus datos.
-> - Enlaces a los documentos oficiales, al calendario y a la programación aprobada, indicando para qué sirve cada uno.
-> - Decisiones docentes confirmadas.
-> - Cuestiones pendientes de resolver.
->
-> Utiliza únicamente información confirmada. No inventes datos ni enlaces; señala lo que falte. El resumen debe servir para orientarse y localizar la documentación, sin sustituir los originales. Preséntalo en el chat y espera mi revisión antes de crear el archivo.
+Archivo de apoyo: [02_Instrucciones-para-tareas/Crear-programacion.md](02_Instrucciones-para-tareas/Crear-programacion.md).
 
-**Revisa el resumen y solicita las correcciones necesarias.**
+**Antes de continuar:** Comprueba que cubre los objetivos y contenidos, respeta la duración, es viable para el grupo y utiliza la plantilla correcta.
 
-Cuando sea correcto, autoriza su archivo con la orden **APROBADO: genera el documento**, indicando que debe guardarse en `00_Contexto` de la edición.
+## Paso 7. Resume la información de la edición
 
-### 10. Desarrolla las actividades y la evaluación
+Cuando la programación esté aprobada, prepara un resumen que permita localizar rápidamente la información de esa edición.
 
-Con la información verificada y la programación aprobada, ya puedes pedirle al asistente que diseñe actividades, materiales e instrumentos de evaluación.
+Incluye el curso, centro y edición; fechas, horario, duración y modalidad; recursos disponibles; enlace al perfil del alumnado; enlaces a los documentos oficiales, calendario y programación aprobada; decisiones confirmadas y cuestiones pendientes.
 
-Para cada encargo, indica:
+El resumen orienta al asistente y al formador, pero no sustituye los documentos originales ni debe duplicar el perfil del alumnado.
 
-- La sesión y el objetivo que quieres trabajar.
-- El tiempo disponible.
-- La metodología (por ejemplo, trabajo individual, en parejas, debate o práctica guiada).
-- Los recursos disponibles.
-- Las condiciones o criterios que debe respetar.
+Guárdalo en `00_Contexto` de la edición, porque sirve como punto de entrada para comprender la formación y localizar sus documentos.
 
-Si falta información necesaria, el asistente debe preguntártela. Puedes aportarla o indicarle que avance con lo que tiene. En ese caso, debe distinguir los datos conocidos de sus propuestas, explicar qué opción recomienda y dejar pendientes las decisiones que no pueda resolver. No debe inventar requisitos oficiales ni presentar suposiciones como hechos.
+### Prompt: Prepara el resumen de la edición
 
-**Revisa el borrador en el chat.** Indica las modificaciones necesarias hasta que responda a tus objetivos y sea adecuado para el grupo.
+Prepara un resumen de la edición [curso, centro y fechas] utilizando la información verificada y la programación aprobada.
 
-Cuando el contenido sea correcto, escribe:
+Incluye los datos principales, los recursos disponibles, las decisiones confirmadas y los enlaces a los documentos correspondientes. Señala lo que siga pendiente.
 
-**APROBADO: genera el documento**
+No inventes información ni reproduzcas los datos del perfil del alumnado. Presenta primero el borrador en el chat.
 
-El asistente preparará el archivo utilizando la plantilla del centro, si existe, y lo guardará en `05_Borradores`.
+Archivo de apoyo: [02_Instrucciones-para-tareas/Resumen-edicion.md](02_Instrucciones-para-tareas/Resumen-edicion.md).
 
-**Abre el archivo y comprueba también su presentación:** contenido completo, tablas, logotipos, saltos de página y facilidad de lectura. Si necesita correcciones, revísalas primero en el chat y vuelve a autorizar la modificación del archivo con la misma orden.
+**Antes de continuar:** Revisa los datos y los enlaces del resumen antes de autorizar su archivo, según las instrucciones que utilices.
 
-Cuando hayas comprobado que está listo para utilizarlo, puedes moverlo (o pedir al asistente que lo mueva):
+## Paso 8. Desarrolla las actividades y los materiales
 
-- A `03_Materiales-del-grupo`, si es un material o una actividad.
-- A `04_Evaluacion`, si es una prueba, rúbrica, solucionario u otro instrumento de evaluación.
+Utiliza la programación aprobada para preparar cada sesión. Indica la sesión y el objetivo, el tiempo disponible, la metodología, los recursos, las características relevantes del grupo y los criterios que debe respetar.
 
-Si el trabajo requiere cambiar la programación, revisa y aprueba también ese cambio y actualiza el resumen de la edición cuando corresponda.
+Puedes crear una actividad nueva o adaptar un material existente. Si falta información, el asistente debe preguntarla o distinguir sus propuestas de los datos confirmados.
+
+Si utilizas `Instrucciones-formaciones.md`, el asistente presentará primero el borrador. Después de aprobarlo con **APROBADO: genera el documento**, guardará el archivo en `05_Borradores`.
+
+Cuando lo hayas comprobado, muévelo a `03_Materiales-del-grupo`, porque reúne los materiales adaptados a esa edición.
+
+### Prompt: Prepara una actividad
+
+Quiero preparar una actividad para [curso, edición y sesión].
+
+El objetivo es [objetivo]. Disponemos de [tiempo] y utilizaremos [metodología]. Los recursos disponibles son [recursos]. Debes respetar estas condiciones: [condiciones o criterios].
+
+Consulta la programación aprobada, el perfil del alumnado y las fuentes pertinentes. Antes de diseñar, comprueba si tienes la información necesaria. Pregunta por los datos que falten y espera mi respuesta.
+
+Cuando la información esté confirmada, presenta una propuesta con:
+
+- Objetivo de aprendizaje.
+- Duración total y distribución del tiempo.
+- Recursos y preparación necesaria.
+- Instrucciones para el alumnado.
+- Desarrollo de la actividad.
+- Resultado esperado.
+- Criterios observables para comprobar el aprendizaje.
+- Apoyos o adaptaciones que recomiendes para el grupo.
+
+Distingue los requisitos de las fuentes de tus propuestas. No inventes información.
+
+Presenta el borrador completo en el chat y espera mi revisión. No generes archivos.
+
+Archivo de apoyo: [02_Instrucciones-para-tareas/Preparar-una-actividad.md](02_Instrucciones-para-tareas/Preparar-una-actividad.md).
+
+### Prompt: Adapta un material
+
+Quiero adaptar [material] para [curso, edición y sesión].
+
+El objetivo es [objetivo]. Necesito modificar [aspectos] porque [motivo]. Disponemos de [tiempo], trabajaremos mediante [metodología] y contamos con [recursos].
+
+Debes conservar [contenidos, requisitos o elementos].
+
+Consulta el material original, la programación aprobada, el perfil del alumnado y las fuentes pertinentes. Comprueba qué puedes leer. Si falta información necesaria, pregúntamela y espera mi respuesta.
+
+Primero presenta un análisis breve: qué partes conviene conservar, cuáles necesitan cambios y por qué. No prepares todavía la versión adaptada. Espera a que confirme los criterios de adaptación.
+
+Cuando los confirme, presenta el contenido adaptado en el chat y una relación breve de los cambios realizados.
+
+Puedes proponer ajustes de vocabulario, ejemplos, extensión, instrucciones, apoyos y dificultad. Conserva los objetivos y requisitos obligatorios. Si alguna adaptación entra en conflicto con ellos, señala el problema antes de continuar.
+
+No inventes información ni atribuyas al original contenido que no aparece en él. Distingue los cambios que he solicitado de tus recomendaciones.
+
+Espera mi revisión. No generes archivos ni modifiques el original.
+
+Archivo de apoyo: [02_Instrucciones-para-tareas/Adaptar-un-material.md](02_Instrucciones-para-tareas/Adaptar-un-material.md).
+
+**Antes de continuar:** Comprueba la relación con el objetivo, la adecuación al grupo, el tiempo, los recursos y la claridad de las instrucciones.
+
+## Paso 9. Prepara y revisa la evaluación
+
+A partir de la programación aprobada, concreta cómo comprobarás el aprendizaje y qué criterios utilizarás para valorar los resultados.
+
+Indica al asistente los objetivos y competencias que quieres evaluar, el momento de la evaluación, el tipo de actividad o prueba y el tiempo disponible.
+
+Revisa que las tareas permitan demostrar lo aprendido y que los criterios sean claros y adecuados al grupo.
+
+Si utilizas la configuración recomendada, revisarás primero el borrador y autorizarás el archivo con **APROBADO: genera el documento**.
+
+El archivo se guardará en `05_Borradores`. Cuando compruebes que está correcto, muévelo a `04_Evaluacion`, porque reúne los instrumentos y criterios de evaluación de esa edición.
+
+### Prompt: Elabora una rúbrica
+
+Quiero elaborar una rúbrica para [actividad], correspondiente a [curso, edición y sesión].
+
+Quiero evaluar [objetivos o aprendizajes]. La finalidad es [finalidad] y las condiciones de realización son [condiciones].
+
+Consulta la actividad, las fuentes pertinentes, la programación aprobada y el perfil del alumnado. Si falta información necesaria, pregúntamela y espera mi respuesta.
+
+Primero presenta los criterios que propones evaluar y su relación con los aprendizajes. Indica cuáles proceden de las fuentes y cuáles son propuestas tuyas.
+
+Recomienda un número de niveles que permita distinguir diferencias claras. No utilices cinco niveles por defecto. Si una rúbrica no es adecuada, explica qué instrumento recomiendas y por qué.
+
+No prepares todavía la tabla completa. Espera a que confirme los criterios y los niveles.
+
+Cuando los confirme, redacta la rúbrica. Para cada criterio y nivel, describe qué podrá observarse en el trabajo del alumnado. Evita expresiones vagas como «bien», «regular» o «excelente» sin explicar qué significan.
+
+No añadas criterios de ortografía, presentación, velocidad o autonomía si no son pertinentes para los aprendizajes y las condiciones acordadas. Evita valorar dos veces el mismo aspecto.
+
+Si corresponde puntuar, respeta las escalas, los pesos y los requisitos confirmados. Si faltan, pregúntamelos o presenta una propuesta justificada para que la valide. No inventes umbrales de aprobado ni penalizaciones.
+
+Presenta la rúbrica completa en el chat, con las decisiones pendientes. No corrijas respuestas reales, no asignes calificaciones al alumnado y no generes archivos.
+
+Archivo de apoyo: [02_Instrucciones-para-tareas/Elaborar-una-rubrica.md](02_Instrucciones-para-tareas/Elaborar-una-rubrica.md).
+
+### Prompt: Revisa una actividad y su evaluación
+
+Quiero revisar la relación entre los objetivos, la actividad y la evaluación de [curso, edición y sesión].
+
+Consulta los documentos que te facilito y las fuentes pertinentes. Comprueba qué puedes leer. Si falta información necesaria, pregúntamela y espera mi respuesta.
+
+No diseñes otra actividad ni modifiques la evaluación durante esta revisión.
+
+Presenta una tabla con:
+
+- Objetivo o aprendizaje que se quiere comprobar y su fuente.
+- Parte de la actividad que permite trabajarlo.
+- Evidencia esperada (qué hará, dirá o entregará el alumnado para mostrar su aprendizaje).
+- Criterio del instrumento que permite valorar esa evidencia.
+- Relación cubierta, parcial o ausente, con una justificación basada en los documentos.
+
+Si falta información para valorar una relación, indícala como «No se puede comprobar». No la confundas con una ausencia demostrada.
+
+Señala también criterios que evalúen aspectos ajenos a los objetivos, instrucciones ambiguas, posibles dobles penalizaciones y dificultades de tiempo, recursos o accesibilidad.
+
+No inventes objetivos, requisitos ni criterios. Distingue lo que dicen las fuentes de tus recomendaciones.
+
+Termina con una lista breve de ajustes propuestos, ordenados por importancia. Presenta la revisión en el chat y espera mi valoración antes de desarrollar cambios. No generes archivos.
+
+Archivo de apoyo: [02_Instrucciones-para-tareas/Revisar-actividad-y-evaluacion.md](02_Instrucciones-para-tareas/Revisar-actividad-y-evaluacion.md).
+
+**Antes de continuar:** Verifica que se evalúa lo previsto, que los criterios son observables y que las condiciones y la puntuación son comprensibles.
 
 *Biblioteca IA para Formadores · Lorena Vidarte*
